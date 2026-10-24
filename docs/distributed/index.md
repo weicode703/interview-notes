@@ -1,6 +1,6 @@
 # 分布式
 
-收录分布式理论、事务、限流熔断、分布式锁与共识算法等高频面试题。
+收录分布式理论、事务、限流熔断、分布式锁、共识算法与数据同步可靠性等高频面试题。
 
 ## 题目列表
 
@@ -15,3 +15,4 @@
 | [分布式锁方案对比（Redis / ZooKeeper）](/distributed/distributed-lock-compare) | ⭐⭐ | 分布式锁, Redis, ZooKeeper |
 | [接口幂等性设计](/distributed/idempotency-design) | ⭐⭐ | 幂等, 分布式, 接口设计 |
 | [共识算法：Raft 与 Paxos、ZAB 的定位](/distributed/raft-consensus) | ⭐⭐ | Raft, 共识算法, 分布式 |
+| [Webhook 事件驱动数据同步的可靠性](/distributed/webhook-sync-reliability) | ⭐⭐⭐ | Webhook, 数据同步, 可靠性, 面试高频 |

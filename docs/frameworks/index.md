@@ -17,5 +17,6 @@
 | [Spring AI 框架的主要优势](/frameworks/spring-ai) | ⭐⭐ | Spring AI, 框架, Java, Agent |
 | [LLM 应用框架选型对比](/frameworks/framework-selection) | ⭐⭐ | 框架选型, LangChain, LangGraph, Spring AI, 面试高频 |
 | [LangGraph 的 Interrupt 中断恢复](/frameworks/langgraph-interrupt) | ⭐⭐⭐ | LangGraph, Interrupt, HITL, 面试高频 |
+| [子图 Interrupt 冒泡与主图网关模式](/frameworks/langgraph-subgraph-interrupt-gateway) | ⭐⭐⭐ | LangGraph, 子图, Interrupt, 面试高频 |
 | [用 LangSmith 定位某一轮推理失败](/frameworks/langsmith-observability) | ⭐⭐ | LangSmith, 可观测性, LangGraph, 排查 |
 | [LangGraph / CrewAI / Agents SDK / AutoGen 选型](/frameworks/agent-framework-comparison) | ⭐⭐ | 框架选型, CrewAI, AutoGen, LangGraph, 面试高频 |

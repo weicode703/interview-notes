@@ -235,6 +235,7 @@ export default defineConfig({
             { text: '一致性哈希', link: '/distributed/consistent-hashing' },
             { text: '分布式锁方案对比', link: '/distributed/distributed-lock-compare' },
             { text: '接口幂等性设计', link: '/distributed/idempotency-design' },
+            { text: 'Webhook 数据同步可靠性', link: '/distributed/webhook-sync-reliability' },
             { text: '共识算法 Raft/Paxos/ZAB', link: '/distributed/raft-consensus' }
           ]
         }
@@ -401,7 +402,8 @@ export default defineConfig({
             { text: 'GraphRAG', link: '/rag/graph-rag' },
             { text: '多模态 RAG', link: '/rag/multimodal-rag' },
             { text: 'Lost in the Middle', link: '/rag/lost-in-the-middle' },
-            { text: 'RAGAS 评估框架', link: '/rag/ragas-framework' }
+            { text: 'RAGAS 评估框架', link: '/rag/ragas-framework' },
+            { text: 'RAG 多级模型降级', link: '/rag/llm-multi-level-degradation' }
           ]
         }
       ],
@@ -422,6 +424,7 @@ export default defineConfig({
             { text: 'Spring AI 优势', link: '/frameworks/spring-ai' },
             { text: '框架选型对比', link: '/frameworks/framework-selection' },
             { text: 'LangGraph Interrupt 中断恢复', link: '/frameworks/langgraph-interrupt' },
+            { text: '子图 Interrupt 与主图网关', link: '/frameworks/langgraph-subgraph-interrupt-gateway' },
             { text: 'LangSmith 定位推理失败', link: '/frameworks/langsmith-observability' },
             { text: 'CrewAI / AutoGen / Agents SDK 选型', link: '/frameworks/agent-framework-comparison' }
           ]

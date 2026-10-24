@@ -1,6 +1,6 @@
 # RAG 检索增强生成
 
-本分类收录 RAG 全链路面试题：定义与价值、与微调选型、Chunk 切分、Embedding 选型、向量检索、混合检索、Rerank、幻觉处理、评估指标与 Agentic RAG。
+本分类收录 RAG 全链路面试题：定义与价值、与微调选型、Chunk 切分、Embedding 选型、向量检索、混合检索、Rerank、幻觉处理、评估指标、Agentic RAG 与多级模型降级。
 
 ## 题目列表
 
@@ -20,3 +20,4 @@
 | [多模态 RAG](/rag/multimodal-rag) | ⭐⭐ | 多模态, RAG, Embedding |
 | [Lost in the Middle 现象与缓解](/rag/lost-in-the-middle) | ⭐⭐ | Lost in the Middle, 长上下文, RAG |
 | [RAGAS 评估框架怎么用](/rag/ragas-framework) | ⭐⭐ | RAGAS, 评估, RAG |
+| [RAG 应用的多级模型降级](/rag/llm-multi-level-degradation) | ⭐⭐ | 降级, RAG, 可用性, 面试高频 |
