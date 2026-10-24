@@ -13,6 +13,7 @@
 | [Workflow 与 Agent 的边界](/agent-architecture/workflow-vs-agent-boundary) | ⭐⭐⭐ | Workflow, Agent, 架构选型, 面试高频 |
 | [Agent 规划器设计与路径震荡](/agent-architecture/agent-planner-design) | ⭐⭐ | 规划, Agent, 架构设计 |
 | [Agent 执行循环与状态化设计](/agent-architecture/agent-execution-loop-state) | ⭐⭐ | Agent, 状态机, 架构设计 |
+| [单入口多子图：Agent 怎么按业务拆子图](/agent-architecture/multi-subgraph-orchestration) | ⭐⭐ | LangGraph, 子图, 状态机, 架构设计 |
 | [控制流与数据流的解耦](/agent-architecture/control-flow-data-flow-decoupling) | ⭐⭐ | 控制流, 数据流, 架构设计, LangGraph |
 | [Multi-Agent 协作模式](/agent-architecture/multi-agent-collaboration-patterns) | ⭐⭐⭐ | Multi-Agent, Agent, 架构设计, 面试高频 |
 | [渐进式披露](/agent-architecture/progressive-disclosure) | ⭐ | 渐进式披露, 上下文工程, Agent |

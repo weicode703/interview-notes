@@ -11,6 +11,7 @@
 | [Prompt 质量评估与评估者分歧处理](/evaluation-deployment/evaluator-disagreement) | ⭐ | 评估, Prompt, 质量保障 |
 | [Context Precision / Recall 检索侧指标详解](/evaluation-deployment/context-precision-recall) | ⭐⭐ | 评估, RAG, 检索, Context Precision |
 | [LLM 应用的流式处理与稳定性](/evaluation-deployment/streaming-stability) | ⭐⭐ | Streaming, 稳定性, 系统设计, 高可用 |
+| [SSE 事件协议设计与缓冲排查](/evaluation-deployment/sse-event-protocol-design) | ⭐⭐ | SSE, 流式输出, 排查, 面试高频 |
 | [模型部署策略（量化 INT4/INT8 与边缘部署）](/evaluation-deployment/quantization-edge-deployment) | ⭐⭐ | 量化, 模型部署, 推理优化, 边缘计算 |
 | [LLM 推理性能优化（模型层）](/evaluation-deployment/inference-optimization) | ⭐⭐ | 推理优化, 性能优化, KV Cache, LLM |
 | [LLM 应用的监控与质量退化检测](/evaluation-deployment/monitoring-quality-drift) | ⭐⭐ | 监控, 可观测性, 评估, 质量保障, 面试高频 |

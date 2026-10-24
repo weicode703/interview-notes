@@ -11,6 +11,7 @@
 | [Chunk 切分策略](/rag/chunking-strategies) | ⭐⭐⭐ | Chunking, RAG, 检索, 面试高频 |
 | [Embedding 模型选型](/rag/embedding-selection) | ⭐⭐ | Embedding, RAG, 向量检索 |
 | [向量检索原理](/rag/vector-search-principle) | ⭐⭐⭐ | 向量检索, ANN, HNSW, RAG |
+| [为什么不用向量数据库？自建检索的权衡](/rag/self-built-retrieval-vs-vector-db) | ⭐⭐⭐ | 向量检索, 选型, Redis, 面试高频 |
 | [混合检索（BM25 + 向量 + RRF）](/rag/hybrid-retrieval-bm25-rrf) | ⭐⭐⭐ | 混合检索, BM25, RRF, RAG, 面试高频 |
 | [Rerank 重排序的必要性](/rag/rerank-bi-cross-encoder) | ⭐⭐⭐ | Rerank, Cross-Encoder, RAG, 面试高频 |
 | [RAG 幻觉处理](/rag/rag-hallucination) | ⭐⭐ | 幻觉, RAG, 忠实度, 面试高频 |

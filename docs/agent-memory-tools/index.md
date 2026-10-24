@@ -12,6 +12,7 @@
 | [对话记忆持久化](/agent-memory-tools/memory-persistence) | ⭐⭐ | 持久化, 记忆, 多轮对话, Agent |
 | [Chat Memory 与 Chat History 的区别](/agent-memory-tools/chat-memory-vs-chat-history) | ⭐ | 记忆, 多轮对话, 上下文工程 |
 | [Token 超限时的上下文裁剪策略](/agent-memory-tools/context-trimming) | ⭐⭐ | 上下文裁剪, Token, 上下文工程, Agent |
+| [RAG 问答的多轮会话记忆设计](/agent-memory-tools/rag-session-memory-design) | ⭐⭐ | 多轮对话, 记忆, RAG, 会话管理 |
 | [Tool Calling / Function Calling 机制](/agent-memory-tools/tool-calling-mechanism) | ⭐⭐⭐ | 工具调用, Function Calling, Agent, 面试高频 |
 | [工具设计原则与 MCP 协议](/agent-memory-tools/tool-design-principles-mcp) | ⭐⭐ | 工具调用, MCP, Agent, 架构设计 |
 | [Skill / MCP / Rule 的区别](/agent-memory-tools/skill-mcp-rule) | ⭐ | Skill, MCP, Agent, 架构设计 |

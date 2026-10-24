@@ -8,6 +8,7 @@
 | --- | --- | --- |
 | [Prompt 设计原则与结构化 Prompt](/prompt-engineering/prompt-design-principles) | ⭐⭐⭐ | Prompt, 结构化输出, LLM, 面试高频 |
 | [结构化输出](/prompt-engineering/structured-output) | ⭐⭐⭐ | 结构化输出, JSON, Agent, 工具调用 |
+| [LLM 抽取结果的确定性校验（反幻觉双保险）](/prompt-engineering/llm-extraction-deterministic-validation) | ⭐⭐⭐ | 结构化输出, 幻觉, 校验, 面试高频 |
 | [CoT 与 ReAct 在 Prompt 中的实现](/prompt-engineering/cot-react-prompting) | ⭐⭐⭐ | CoT, ReAct, Prompt, Agent, 面试高频 |
 | [System Prompt 设计](/prompt-engineering/system-prompt-design) | ⭐⭐⭐ | System Prompt, Prompt, Agent, 面试高频 |
 | [Few-shot 策略](/prompt-engineering/few-shot-strategies) | ⭐⭐ | Few-shot, Prompt, ICL |
