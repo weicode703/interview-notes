@@ -12,6 +12,7 @@
 | [SQLAlchemy 核心概念：Engine、Session 与 N+1](/python/sqlalchemy-core-concepts) | ⭐⭐ | SQLAlchemy, ORM, FastAPI, 面试高频 |
 | [Pydantic 与 LLM 输出的结构化校验](/python/pydantic-validation) | ⭐⭐ | Pydantic, FastAPI, 结构化输出 |
 | [装饰器与生成器的原理和使用场景](/python/python-decorators-generators) | ⭐⭐ | 装饰器, 生成器, Python |
+| [赋值、浅拷贝、深拷贝与默认参数陷阱](/python/python-copy-mutability) | ⭐⭐ | Python, 可变类型, 拷贝, 面试高频 |
 | [PostgreSQL 与 MySQL 怎么选](/python/postgres-vs-mysql) | ⭐⭐ | PostgreSQL, MySQL, 数据库, 选型 |
 | [pgvector 做向量检索的原理与边界](/python/pgvector-rag) | ⭐⭐ | pgvector, PostgreSQL, 向量检索, RAG |
 | [用 Redis 在 Python 服务里做什么](/python/redis-in-llm-app) | ⭐⭐ | Redis, Python, 缓存, LLM |

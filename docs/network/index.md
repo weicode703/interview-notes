@@ -10,6 +10,8 @@
 | [TCP 四次挥手与 TIME_WAIT](/network/tcp-four-way-wave) | ⭐⭐⭐ | TCP, TIME_WAIT, 面试高频 |
 | [TCP 拥塞控制](/network/tcp-congestion-control) | ⭐⭐⭐ | TCP, 拥塞控制, 面试高频 |
 | [TCP 如何保证可靠传输](/network/how-tcp-ensures-reliability) | ⭐⭐ | TCP, 可靠传输 |
+| [TCP 粘包与拆包：原因与解决](/network/tcp-sticky-package) | ⭐⭐ | TCP, 粘包, 网络, 面试高频 |
+| [UDP 怎么实现可靠传输？](/network/udp-reliable-transport) | ⭐⭐ | UDP, 可靠传输, 网络, 面试高频 |
 | [HTTP 与 HTTPS 的区别](/network/http-https) | ⭐⭐⭐ | HTTP, HTTPS, TLS, 面试高频 |
 | [HTTP/1.1、HTTP/2、HTTP/3 的演进](/network/http-version-evolution) | ⭐⭐ | HTTP, HTTP/2, HTTP/3 |
 | [从输入 URL 到页面展示发生了什么](/network/from-url-to-page) | ⭐⭐⭐ | 经典题, 网络, 面试高频 |

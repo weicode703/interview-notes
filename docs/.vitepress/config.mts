@@ -79,6 +79,8 @@ export default defineConfig({
           items: [
             { text: '分类索引', link: '/network/' },
             { text: 'TCP / UDP', link: '/network/tcp-udp' },
+            { text: 'TCP 粘包与拆包', link: '/network/tcp-sticky-package' },
+            { text: 'UDP 实现可靠传输', link: '/network/udp-reliable-transport' },
             { text: 'HTTP / HTTPS', link: '/network/http-https' },
             { text: 'JWT 主动失效与双 Token', link: '/network/jwt-active-invalidation' },
             { text: 'Nginx 反向代理与负载均衡', link: '/network/nginx-reverse-proxy' }
@@ -102,7 +104,12 @@ export default defineConfig({
           items: [
             { text: '分类索引', link: '/database/' },
             { text: 'MySQL 索引', link: '/database/mysql-index' },
-            { text: 'Redis 持久化', link: '/database/redis-persistence' }
+            { text: 'MySQL 深分页优化', link: '/database/mysql-deep-pagination' },
+            { text: 'Redis 持久化', link: '/database/redis-persistence' },
+            { text: 'Redis 为什么快', link: '/database/redis-why-fast' },
+            { text: 'Redis 过期与淘汰', link: '/database/redis-expiry-eviction' },
+            { text: 'Redis 大Key与热Key', link: '/database/redis-bigkey-hotkey' },
+            { text: 'PostgreSQL MVCC 与 VACUUM', link: '/database/postgres-mvcc-vacuum' }
           ]
         }
       ],
@@ -268,6 +275,7 @@ export default defineConfig({
             { text: 'SQLAlchemy 核心概念', link: '/python/sqlalchemy-core-concepts' },
             { text: 'Pydantic 与结构化校验', link: '/python/pydantic-validation' },
             { text: '装饰器与生成器', link: '/python/python-decorators-generators' },
+            { text: '赋值、浅拷贝与深拷贝', link: '/python/python-copy-mutability' },
             { text: 'PostgreSQL vs MySQL', link: '/python/postgres-vs-mysql' },
             { text: 'pgvector 向量检索', link: '/python/pgvector-rag' },
             { text: 'Redis 在 LLM 应用里做什么', link: '/python/redis-in-llm-app' },
