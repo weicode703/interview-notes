@@ -9,6 +9,7 @@
 | [GIL 是什么？多线程为什么不能并行](/python/python-gil) | ⭐⭐⭐ | GIL, Python, 并发, 面试高频 |
 | [asyncio 事件循环与异步编程](/python/python-asyncio) | ⭐⭐⭐ | asyncio, Python, FastAPI, 面试高频 |
 | [FastAPI 为什么适合做 AI 应用服务](/python/fastapi-core) | ⭐⭐ | FastAPI, Python, LLM |
+| [SQLAlchemy 核心概念：Engine、Session 与 N+1](/python/sqlalchemy-core-concepts) | ⭐⭐ | SQLAlchemy, ORM, FastAPI, 面试高频 |
 | [Pydantic 与 LLM 输出的结构化校验](/python/pydantic-validation) | ⭐⭐ | Pydantic, FastAPI, 结构化输出 |
 | [装饰器与生成器的原理和使用场景](/python/python-decorators-generators) | ⭐⭐ | 装饰器, 生成器, Python |
 | [PostgreSQL 与 MySQL 怎么选](/python/postgres-vs-mysql) | ⭐⭐ | PostgreSQL, MySQL, 数据库, 选型 |

@@ -79,7 +79,9 @@ export default defineConfig({
           items: [
             { text: '分类索引', link: '/network/' },
             { text: 'TCP / UDP', link: '/network/tcp-udp' },
-            { text: 'HTTP / HTTPS', link: '/network/http-https' }
+            { text: 'HTTP / HTTPS', link: '/network/http-https' },
+            { text: 'JWT 主动失效与双 Token', link: '/network/jwt-active-invalidation' },
+            { text: 'Nginx 反向代理与负载均衡', link: '/network/nginx-reverse-proxy' }
           ]
         }
       ],
@@ -263,6 +265,7 @@ export default defineConfig({
             { text: 'GIL 是什么', link: '/python/python-gil' },
             { text: 'asyncio 事件循环', link: '/python/python-asyncio' },
             { text: 'FastAPI 为什么适合 AI 应用', link: '/python/fastapi-core' },
+            { text: 'SQLAlchemy 核心概念', link: '/python/sqlalchemy-core-concepts' },
             { text: 'Pydantic 与结构化校验', link: '/python/pydantic-validation' },
             { text: '装饰器与生成器', link: '/python/python-decorators-generators' },
             { text: 'PostgreSQL vs MySQL', link: '/python/postgres-vs-mysql' },

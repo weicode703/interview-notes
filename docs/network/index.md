@@ -15,6 +15,8 @@
 | [从输入 URL 到页面展示发生了什么](/network/from-url-to-page) | ⭐⭐⭐ | 经典题, 网络, 面试高频 |
 | [DNS 解析过程](/network/dns-resolution-process) | ⭐⭐ | DNS, 网络 |
 | [Cookie、Session、Token（JWT）的区别](/network/cookie-session-jwt) | ⭐⭐ | Cookie, JWT, 认证 |
+| [JWT 怎么主动失效？登出、改密与双 Token 设计](/network/jwt-active-invalidation) | ⭐⭐⭐ | JWT, 认证, Redis, 面试高频 |
+| [Nginx 反向代理高频：proxy_pass、负载均衡与缓冲](/network/nginx-reverse-proxy) | ⭐⭐ | Nginx, 反向代理, 负载均衡, 面试高频 |
 | [跨域与 CORS](/network/cors-cross-origin) | ⭐ | CORS, HTTP |
 | [常见 Web 攻击：XSS、CSRF、SQL 注入](/network/web-security-xss-csrf) | ⭐⭐ | 安全, XSS, CSRF |
 | [HTTP 常见状态码](/network/http-status-codes) | ⭐ | HTTP, 状态码 |
