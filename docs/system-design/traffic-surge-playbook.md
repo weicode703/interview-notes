@@ -1,7 +1,7 @@
 ---
 title: 流量突涨 10 倍怎么办：高并发应对全景
 category: 系统设计
-tags: [高并发, 扩容, 限流, 系统设计, 面试高频]
+tags: [高并发, 扩容, 限流, 面试高频]
 importance: 3
 mastery: 未掌握
 source: AI生成
