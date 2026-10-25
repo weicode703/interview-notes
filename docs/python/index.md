@@ -8,6 +8,8 @@
 | --- | --- | --- |
 | [GIL 是什么？多线程为什么不能并行](/python/python-gil) | ⭐⭐⭐ | GIL, Python, 并发, 面试高频 |
 | [asyncio 事件循环与异步编程](/python/python-asyncio) | ⭐⭐⭐ | asyncio, Python, FastAPI, 面试高频 |
+| [Python 并发选型：多线程、多进程、asyncio](/python/python-concurrency-selection) | ⭐⭐⭐ | Python, 并发, asyncio, 面试高频 |
+| [线程池、进程池与并发容量参数怎么定](/python/thread-pool-and-capacity) | ⭐⭐ | 线程池, 连接池, 容量规划, 面试高频 |
 | [FastAPI 为什么适合做 AI 应用服务](/python/fastapi-core) | ⭐⭐ | FastAPI, Python, LLM |
 | [SQLAlchemy 核心概念：Engine、Session 与 N+1](/python/sqlalchemy-core-concepts) | ⭐⭐ | SQLAlchemy, ORM, FastAPI, 面试高频 |
 | [Pydantic 与 LLM 输出的结构化校验](/python/pydantic-validation) | ⭐⭐ | Pydantic, FastAPI, 结构化输出 |

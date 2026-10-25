@@ -18,3 +18,4 @@
 | [如何优化 LLM 推理吞吐量](/system-design/inference-throughput) | ⭐⭐ | 推理优化, 吞吐量, 系统设计, 性能优化 |
 | [设计 Agent 的 Memory 管理系统](/system-design/memory-system-design) | ⭐⭐ | 记忆, 系统设计, 架构设计, 面试高频 |
 | [设计支持流式输出的 RAG 系统](/system-design/streaming-rag-design) | ⭐⭐ | RAG, Streaming, 系统设计, SSE |
+| [流量突涨 10 倍怎么办：高并发应对全景](/system-design/traffic-surge-playbook) | ⭐⭐⭐ | 高并发, 扩容, 限流, 系统设计, 面试高频 |

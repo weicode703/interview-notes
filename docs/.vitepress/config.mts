@@ -271,6 +271,8 @@ export default defineConfig({
             { text: '分类索引', link: '/python/' },
             { text: 'GIL 是什么', link: '/python/python-gil' },
             { text: 'asyncio 事件循环', link: '/python/python-asyncio' },
+            { text: 'Python 并发选型', link: '/python/python-concurrency-selection' },
+            { text: '线程池与容量参数', link: '/python/thread-pool-and-capacity' },
             { text: 'FastAPI 为什么适合 AI 应用', link: '/python/fastapi-core' },
             { text: 'SQLAlchemy 核心概念', link: '/python/sqlalchemy-core-concepts' },
             { text: 'Pydantic 与结构化校验', link: '/python/pydantic-validation' },
@@ -303,7 +305,8 @@ export default defineConfig({
             { text: '微服务接入 Agent', link: '/system-design/microservices-agent-integration' },
             { text: 'LLM 推理吞吐量优化', link: '/system-design/inference-throughput' },
             { text: 'Memory 管理系统设计', link: '/system-design/memory-system-design' },
-            { text: '流式 RAG 系统设计', link: '/system-design/streaming-rag-design' }
+            { text: '流式 RAG 系统设计', link: '/system-design/streaming-rag-design' },
+            { text: '流量突涨应对全景', link: '/system-design/traffic-surge-playbook' }
           ]
         }
       ],
@@ -467,7 +470,8 @@ export default defineConfig({
             { text: 'Agent 系统的评估方法', link: '/evaluation-deployment/agent-evaluation' },
             { text: '灰度与 A/B 发布', link: '/evaluation-deployment/grayscale-ab-release' },
             { text: 'vLLM PagedAttention 原理', link: '/evaluation-deployment/vllm-paged-attention' },
-            { text: '可观测性与 tracing 体系', link: '/evaluation-deployment/observability-tracing' }
+            { text: '可观测性与 tracing 体系', link: '/evaluation-deployment/observability-tracing' },
+            { text: '压力测试与容量水位', link: '/evaluation-deployment/load-testing-methodology' }
           ]
         }
       ],

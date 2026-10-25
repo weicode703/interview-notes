@@ -21,3 +21,4 @@
 | [LLM 应用的灰度与 A/B 发布](/evaluation-deployment/grayscale-ab-release) | ⭐ | 灰度发布, A/B 测试, 评估, 系统设计 |
 | [vLLM 的 PagedAttention 原理](/evaluation-deployment/vllm-paged-attention) | ⭐⭐ | vLLM, PagedAttention, 推理优化, 面试高频 |
 | [生产 LLM 应用的可观测性与 tracing](/evaluation-deployment/observability-tracing) | ⭐⭐ | 可观测性, tracing, OpenTelemetry, LangSmith |
+| [压力测试怎么做：指标、工具与找水位](/evaluation-deployment/load-testing-methodology) | ⭐⭐⭐ | 压测, 容量, 性能, 面试高频 |
