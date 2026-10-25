@@ -272,6 +272,8 @@ export default defineConfig({
             { text: 'pgvector 向量检索', link: '/python/pgvector-rag' },
             { text: 'Redis 在 LLM 应用里做什么', link: '/python/redis-in-llm-app' },
             { text: 'Docker 部署 AI 应用', link: '/python/docker-deploy-llm' },
+            { text: 'Docker 核心八股', link: '/python/docker-fundamentals' },
+            { text: 'Git 高频与救命操作', link: '/python/git-essentials' },
             { text: 'DashScope / Qwen 工程化', link: '/python/dashscope-qwen-engineering' }
           ]
         }

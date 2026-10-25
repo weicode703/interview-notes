@@ -16,4 +16,6 @@
 | [pgvector 做向量检索的原理与边界](/python/pgvector-rag) | ⭐⭐ | pgvector, PostgreSQL, 向量检索, RAG |
 | [用 Redis 在 Python 服务里做什么](/python/redis-in-llm-app) | ⭐⭐ | Redis, Python, 缓存, LLM |
 | [Docker 部署 AI 应用要注意什么](/python/docker-deploy-llm) | ⭐ | Docker, 部署, Python, LLM |
+| [Docker 核心八股：容器 vs 虚拟机、Dockerfile 与网络](/python/docker-fundamentals) | ⭐⭐ | Docker, 容器, Dockerfile, 面试高频 |
+| [Git 高频：merge vs rebase、reset 三模式与救命操作](/python/git-essentials) | ⭐⭐ | Git, 版本控制, 协作, 面试高频 |
 | [DashScope / Qwen API 的工程化使用](/python/dashscope-qwen-engineering) | ⭐⭐ | DashScope, Qwen, API, LLM |
