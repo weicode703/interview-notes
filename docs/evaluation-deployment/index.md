@@ -22,3 +22,6 @@
 | [vLLM 的 PagedAttention 原理](/evaluation-deployment/vllm-paged-attention) | ⭐⭐ | vLLM, PagedAttention, 推理优化, 面试高频 |
 | [生产 LLM 应用的可观测性与 tracing](/evaluation-deployment/observability-tracing) | ⭐⭐ | 可观测性, tracing, OpenTelemetry, LangSmith |
 | [压力测试怎么做：指标、工具与找水位](/evaluation-deployment/load-testing-methodology) | ⭐⭐⭐ | 压测, 容量, 性能, 面试高频 |
+| [MCP 的安全风险与审批边界](/evaluation-deployment/mcp-security-risks) | ⭐⭐⭐ | MCP, Agent 安全, 审批, 面试高频 |
+| [Coding Agent 的沙箱怎么做的](/evaluation-deployment/coding-agent-sandbox) | ⭐⭐ | 沙箱, Coding Agent, 安全执行, 面试高频 |
+| [线上 BadCase 怎么收、怎么归因](/evaluation-deployment/badcase-collection-attribution) | ⭐⭐⭐ | BadCase, 归因, 可观测性, 面试高频 |

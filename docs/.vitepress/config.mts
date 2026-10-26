@@ -306,7 +306,8 @@ export default defineConfig({
             { text: 'LLM 推理吞吐量优化', link: '/system-design/inference-throughput' },
             { text: 'Memory 管理系统设计', link: '/system-design/memory-system-design' },
             { text: '流式 RAG 系统设计', link: '/system-design/streaming-rag-design' },
-            { text: '流量突涨应对全景', link: '/system-design/traffic-surge-playbook' }
+            { text: '流量突涨应对全景', link: '/system-design/traffic-surge-playbook' },
+            { text: 'MCP 部署：多租户与并发', link: '/system-design/mcp-deployment-concurrency' }
           ]
         }
       ],
@@ -332,7 +333,8 @@ export default defineConfig({
             { text: 'RoPE 的优势与外推极限', link: '/llm-basics/rope-extrapolation-limits' },
             { text: '中文分词的坑', link: '/llm-basics/chinese-tokenization-pitfalls' },
             { text: 'GPT/Claude/Qwen/DeepSeek 选型', link: '/llm-basics/llm-model-landscape' },
-            { text: 'RULER 与有效上下文', link: '/llm-basics/ruler-long-context' }
+            { text: 'RULER 与有效上下文', link: '/llm-basics/ruler-long-context' },
+            { text: 'Prefix Caching 与 Prompt Caching', link: '/llm-basics/prompt-caching' }
           ]
         }
       ],
@@ -354,7 +356,8 @@ export default defineConfig({
             { text: 'Context Engineering 核心思路', link: '/prompt-engineering/context-engineering-core' },
             { text: 'Prompt 反模式与调优', link: '/prompt-engineering/prompt-anti-patterns' },
             { text: 'Prompt Engineering 的本质', link: '/prompt-engineering/prompt-engineering-essence' },
-            { text: '自动化 Prompt 优化', link: '/prompt-engineering/automated-prompt-optimization' }
+            { text: '自动化 Prompt 优化', link: '/prompt-engineering/automated-prompt-optimization' },
+            { text: '压缩触发、保留与细节找回', link: '/prompt-engineering/context-compaction-watermarks' }
           ]
         }
       ],
@@ -377,7 +380,13 @@ export default defineConfig({
             { text: '渐进式披露', link: '/agent-architecture/progressive-disclosure' },
             { text: 'Reflexion 自我纠错', link: '/agent-architecture/reflexion-self-correction' },
             { text: 'Orchestrator-Workers 模式', link: '/agent-architecture/orchestrator-workers' },
-            { text: 'Loop of Death 死循环防线', link: '/agent-architecture/loop-of-death' }
+            { text: 'Loop of Death 死循环防线', link: '/agent-architecture/loop-of-death' },
+            { text: 'Checkpoint 机制与回滚边界', link: '/agent-architecture/checkpoint-mechanism' },
+            { text: '多 Agent 拆分与上下文交接', link: '/agent-architecture/subagent-context-handoff' },
+            { text: '子 Agent 结论冲突裁决', link: '/agent-architecture/multi-agent-result-conflict' },
+            { text: 'Agent 幻觉 vs LLM 幻觉', link: '/agent-architecture/agent-hallucination' },
+            { text: '执行中用户插话怎么处理', link: '/agent-architecture/mid-turn-user-input' },
+            { text: '一切皆插件与 Cordis', link: '/agent-architecture/plugin-architecture-cordis' }
           ]
         }
       ],
@@ -398,7 +407,13 @@ export default defineConfig({
             { text: '工具设计原则与 MCP', link: '/agent-memory-tools/tool-design-principles-mcp' },
             { text: 'Skill / MCP / Rule 区别', link: '/agent-memory-tools/skill-mcp-rule' },
             { text: 'Agent 与外部 API 集成', link: '/agent-memory-tools/agent-api-integration' },
-            { text: '长期记忆框架 Mem0 / Zep', link: '/agent-memory-tools/long-term-memory-frameworks' }
+            { text: '长期记忆框架 Mem0 / Zep', link: '/agent-memory-tools/long-term-memory-frameworks' },
+            { text: '工具失败恢复与可重试判断', link: '/agent-memory-tools/tool-failure-recovery' },
+            { text: '工具上百个怎么选得准', link: '/agent-memory-tools/tool-selection-at-scale' },
+            { text: '工具并行串行与执行属性', link: '/agent-memory-tools/tool-parallel-scheduling' },
+            { text: 'MCP 传输模式与调用流程', link: '/agent-memory-tools/mcp-transport-modes' },
+            { text: 'Agent 自进化：记忆与 Skill', link: '/agent-memory-tools/self-evolving-agent' },
+            { text: 'Coding Agent 长期记忆', link: '/agent-memory-tools/coding-agent-memory' }
           ]
         }
       ],
@@ -471,7 +486,10 @@ export default defineConfig({
             { text: '灰度与 A/B 发布', link: '/evaluation-deployment/grayscale-ab-release' },
             { text: 'vLLM PagedAttention 原理', link: '/evaluation-deployment/vllm-paged-attention' },
             { text: '可观测性与 tracing 体系', link: '/evaluation-deployment/observability-tracing' },
-            { text: '压力测试与容量水位', link: '/evaluation-deployment/load-testing-methodology' }
+            { text: '压力测试与容量水位', link: '/evaluation-deployment/load-testing-methodology' },
+            { text: 'MCP 安全风险与审批边界', link: '/evaluation-deployment/mcp-security-risks' },
+            { text: 'Coding Agent 沙箱实现', link: '/evaluation-deployment/coding-agent-sandbox' },
+            { text: 'BadCase 收集与归因', link: '/evaluation-deployment/badcase-collection-attribution' }
           ]
         }
       ],

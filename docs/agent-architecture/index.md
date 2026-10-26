@@ -20,3 +20,9 @@
 | [Reflexion 自我纠错](/agent-architecture/reflexion-self-correction) | ⭐⭐ | Reflexion, 反思, Agent, 自我纠错 |
 | [Orchestrator-Workers 模式](/agent-architecture/orchestrator-workers) | ⭐⭐ | Multi-Agent, Orchestrator, 架构设计, LangGraph |
 | [Loop of Death 与死循环防线](/agent-architecture/loop-of-death) | ⭐⭐ | Agent, 死循环, 稳定性, 面试高频 |
+| [Checkpoint 机制：存什么、怎么实现、哪些回滚不了](/agent-architecture/checkpoint-mechanism) | ⭐⭐⭐ | Checkpoint, 断点恢复, Agent Runtime, 面试高频 |
+| [多 Agent 怎么拆、上下文怎么交接](/agent-architecture/subagent-context-handoff) | ⭐⭐⭐ | Multi-Agent, 上下文交接, 任务拆分, Agent 架构 |
+| [子 Agent 结论冲突怎么裁决](/agent-architecture/multi-agent-result-conflict) | ⭐⭐ | Multi-Agent, 一致性, 决策, Agent 架构 |
+| [Agent 的幻觉和 LLM 的幻觉有什么不同](/agent-architecture/agent-hallucination) | ⭐⭐⭐ | 幻觉, Agent, 上下文压缩, 记忆 |
+| [Agent 执行中用户插话怎么处理](/agent-architecture/mid-turn-user-input) | ⭐⭐ | HITL, 交互设计, Agent Runtime |
+| [「一切皆插件」的 Agent Runtime](/agent-architecture/plugin-architecture-cordis) | ⭐⭐ | Agent Runtime, Harness, 插件化, 架构设计 |

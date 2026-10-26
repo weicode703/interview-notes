@@ -19,3 +19,4 @@
 | [Prompt 常见反模式与调优方法](/prompt-engineering/prompt-anti-patterns) | ⭐ | Prompt, 反模式, 调优 |
 | [你怎么理解 Prompt Engineering 的本质](/prompt-engineering/prompt-engineering-essence) | ⭐⭐ | Prompt, 本质, 上下文工程 |
 | [怎么用 AI 自动迭代优化 Prompt](/prompt-engineering/automated-prompt-optimization) | ⭐⭐ | Prompt, 自动化, DSPy |
+| [压缩什么时候触发、保留什么、压缩后怎么找回细节](/prompt-engineering/context-compaction-watermarks) | ⭐⭐⭐ | 上下文压缩, 水位线, 上下文工程, Agent |

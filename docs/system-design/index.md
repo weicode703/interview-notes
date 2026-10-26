@@ -19,3 +19,4 @@
 | [设计 Agent 的 Memory 管理系统](/system-design/memory-system-design) | ⭐⭐ | 记忆, 系统设计, 架构设计, 面试高频 |
 | [设计支持流式输出的 RAG 系统](/system-design/streaming-rag-design) | ⭐⭐ | RAG, Streaming, 系统设计, SSE |
 | [流量突涨 10 倍怎么办：高并发应对全景](/system-design/traffic-surge-playbook) | ⭐⭐⭐ | 高并发, 扩容, 限流, 面试高频 |
+| [MCP 服务怎么部署：多用户隔离、并发与故障处理](/system-design/mcp-deployment-concurrency) | ⭐⭐ | MCP, 多租户, 连接池, 高可用 |

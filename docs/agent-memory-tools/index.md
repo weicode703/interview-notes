@@ -18,3 +18,9 @@
 | [Skill / MCP / Rule 的区别](/agent-memory-tools/skill-mcp-rule) | ⭐ | Skill, MCP, Agent, 架构设计 |
 | [Agent 与外部 API 的集成](/agent-memory-tools/agent-api-integration) | ⭐⭐ | API 集成, 工具调用, Agent, 架构设计 |
 | [长期记忆框架（Mem0 / Zep）](/agent-memory-tools/long-term-memory-frameworks) | ⭐⭐ | 长期记忆, Mem0, Zep, Agent |
+| [工具调用失败怎么恢复、哪些能重试](/agent-memory-tools/tool-failure-recovery) | ⭐⭐⭐ | 工具调用, 幂等, 故障恢复, 面试高频 |
+| [工具上百个时怎么让模型选得准](/agent-memory-tools/tool-selection-at-scale) | ⭐⭐ | 工具调用, 工具检索, 分层路由, Agent 架构 |
+| [工具该并行还是串行、执行属性怎么定](/agent-memory-tools/tool-parallel-scheduling) | ⭐⭐ | 工具调用, 并发控制, Agent Runtime, 工具设计 |
+| [MCP 有哪几种传输模式](/agent-memory-tools/mcp-transport-modes) | ⭐⭐ | MCP, 协议设计, 工具调用, Agent 架构 |
+| [Agent 怎么自进化：记忆与 Skill 两条线](/agent-memory-tools/self-evolving-agent) | ⭐⭐ | 自进化, Skill, 长期记忆, Agent |
+| [Coding Agent 的长期记忆怎么实现](/agent-memory-tools/coding-agent-memory) | ⭐⭐ | 长期记忆, Coding Agent, 记忆治理, Agent |

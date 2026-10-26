@@ -23,3 +23,4 @@
 | [中文在分词上有什么坑](/llm-basics/chinese-tokenization-pitfalls) | ⭐⭐ | Tokenizer, 分词, LLM |
 | [GPT / Claude / Qwen / DeepSeek 选型](/llm-basics/llm-model-landscape) | ⭐⭐⭐ | 模型选型, Qwen, DeepSeek, 面试高频 |
 | [RULER：标称上下文 ≠ 有效上下文](/llm-basics/ruler-long-context) | ⭐⭐ | 长上下文, RULER, 评估 |
+| [Prefix Caching 与 Prompt Caching](/llm-basics/prompt-caching) | ⭐⭐ | KV Cache, Prompt Caching, 推理优化, 面试高频 |
